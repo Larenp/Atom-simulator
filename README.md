@@ -1,6 +1,6 @@
 # CG-Mini-Project
 This repo contains all the files used in CG Mini Project on topic "atom simulation"
-
+ 
 Bohr-model viewer for **36 elements (Hydrogen to Krypton)** with up to **4 electron shells (K, L, M, N)**,
 nucleus built from individual protons and neutrons, and live facts for each element.
 
